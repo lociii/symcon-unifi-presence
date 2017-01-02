@@ -1,0 +1,20 @@
+{
+    "elements": [
+        {"type": "Label", "label": "Service settings"},
+        {"type": "ValidationTextBox", "name": "ufp_url", "caption": "URL"},
+        {"type": "ValidationTextBox", "name": "ufp_username", "caption": "Username"},
+        {"type": "ValidationTextBox", "name": "ufp_password", "caption": "Password"},
+        {"type": "Label", "label": "User settings"},
+        {"type": "ValidationTextBox", "name": "ufp_mac", "caption": "MAC address"},
+        {"type": "Label", "label": "Module settings"},
+        {"type": "IntervalBox", "name": "ufp_interval", "caption": "(in minutes)"}
+    ],
+    "actions": [
+        {"type": "Button", "label": "Update", "onClick": "LOCIUFP_Update($id);"}
+    ],
+    "status": [
+        {"code": 101, "icon": "active", "caption": "Instance is getting created!"},
+        {"code": 102, "icon": "active", "caption": "Instance is active!"},
+        {"code": 104, "icon": "inactive", "caption": "Instance is inactive!"}
+    ]
+}

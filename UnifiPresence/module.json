@@ -1,0 +1,13 @@
+{
+    "id": "{6AA9C12D-DB1E-4A31-AE92-5CB65C2D6399}",
+    "name": "UniFiPresence",
+    "type": 3,
+    "vendor": "",
+    "aliases": [
+        "UniFi presence"
+    ],
+    "parentRequirements": [],
+    "childRequirements": [],
+    "implemented": [],
+    "prefix": "LOCIUFP"
+}

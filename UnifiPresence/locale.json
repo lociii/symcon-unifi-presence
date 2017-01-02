@@ -1,0 +1,15 @@
+{
+    "translations": {
+        "de": {
+            "Service settings": "Dienst-Einstellungen",
+            "URL": "URL",
+            "Username": "Benutzername",
+            "Password": "Passwort",
+            "User settings": "Benutzer-Einstellungen",
+            "MAC address": "MAC Adresse",
+            "Module settings": "Modul-Einstellungen",
+            "(in minutes)": "(in Minuten)",
+            "Update": "Aktualisieren"
+        }
+    }
+}
