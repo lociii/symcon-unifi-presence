@@ -1,7 +1,7 @@
 <?php
 
 include_once(__DIR__ . '/../shared/BaseModule.php');
-include_once(__DIR__ . '/UniFiPresence.php');
+include_once(__DIR__ . '/UniFi.php');
 
 class UniFiPresence extends IPSBaseModule
 {
