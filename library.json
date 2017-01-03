@@ -1,9 +1,17 @@
 {
-    "id": "{B7CA1B0A-1C6E-438D-8175-27CB0D33637A}",
-    "author": "Jens 'loci' Nistler",
-    "name": "UniFi presence",
-    "url": "http://github.com/lociii/symcon-unifi-presence",
-    "version": "1.0",
-    "build": 0,
-    "date": 0
+  "id": "{B7CA1B0A-1C6E-438D-8175-27CB0D33637A}",
+  "author": "Jens 'loci' Nistler",
+  "name": "UniFiPresence",
+  "title": "UniFi Präsenzmeldung",
+  "description": "Die Anwesenheit eines WLAN-fähigen Gerätes wird Anhand der Einbuchung in ein UniFi WLAN Netz ermittelt und der Status als Variable abgelegt",
+  "url": "http://github.com/lociii/symcon-unifi-presence",
+  "version": "1.0",
+  "build": 0,
+  "date": 0,
+  "tags": [
+    "wifi", "presence",
+    "WLAN", "Präsenz", "Anwesenheit",
+    "UniFi"
+  ],
+  "req_ips_version": "4.1"
 }
