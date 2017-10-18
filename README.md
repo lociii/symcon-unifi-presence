@@ -1,3 +1,7 @@
+# UNMAINTAINED
+This project is not maintained anymore. Feel free to fork and use it.
+No support nor development will be done!
+
 # UniFi presence
 Die Anwesenheit eines WLAN-faehigen Geraetes wird Anhand der Einbuchung in ein UniFi WLAN Netz ermittelt und der Status als Variable abgelegt
 
